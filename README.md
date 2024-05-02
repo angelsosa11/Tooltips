@@ -28,5 +28,5 @@ You can customize the appearance of the tooltips by modifying the CSS in the 'st
 
 # Credits
 
-This project was created by Angel Sosa.
-Inspired by various CSS animation tutorials and resources available online.
+- This project was created by Angel Sosa.
+- Inspired by various CSS animation tutorials and resources available online.
